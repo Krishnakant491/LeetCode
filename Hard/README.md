@@ -5,7 +5,7 @@
 *For when good enough is not enough.*
 
 [![Difficulty](https://img.shields.io/badge/Difficulty-Hard-EF4743?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KrisCooked/)
-[![Back to Main](https://img.shields.io/badge/Back%20to-Main%20README-181717?style=for-the-badge&logo=github&logoColor=white)](../README.md)
+[![Back to Main](https://img.shields.io/badge/Back%20to-Main%20README-181717?style=for-the-badge&logo=github&logoColor=white)](../readme.md)
 
 </div>
 
@@ -13,7 +13,9 @@
 
 ## About This Folder
 
-This folder contains solutions to **Hard** difficulty problems from LeetCode, automatically synced via **LeetSync** whenever a solution is accepted.
+This folder is a reference collection for **Hard** difficulty problems.
+
+> **Note:** LeetHub syncs solutions directly to the **root level** of this repository (one folder per problem). This folder serves as a quick-reference guide for Hard-level patterns and mindset.
 
 Hard problems demand:
 
@@ -25,17 +27,21 @@ Hard problems demand:
 
 ---
 
-## Folder Structure
+## How LeetHub Stores Solutions
 
-Each problem lives in its own subfolder named after the problem:
+Each accepted solution is saved at root level in this format:
 
 ```
-Hard/
-├── Median of Two Sorted Arrays/
-│   └── Median of Two Sorted Arrays.java
-├── Trapping Rain Water/
-│   └── Trapping Rain Water.java
-└── ...
+{problem-number}-{problem-name}/
+├── {problem-number}-{problem-name}.java   ← your solution
+└── README.md                              ← problem statement
+```
+
+**Example (already in this repo):**
+```
+2267-check-if-there-is-a-valid-parentheses-string-path/
+├── 2267-check-if-there-is-a-valid-parentheses-string-path.java
+└── README.md
 ```
 
 ---
@@ -72,7 +78,7 @@ they are about whether you can think under pressure.
 
 ---
 
-> Solutions in this folder are synced automatically from [leetcode.com/u/KrisCooked](https://leetcode.com/u/KrisCooked/) via LeetSync.
+> Solutions auto-synced from [leetcode.com/u/KrisCooked](https://leetcode.com/u/KrisCooked/) via LeetHub.
 
 <div align="center">
 
@@ -80,6 +86,6 @@ they are about whether you can think under pressure.
 
 *Hard is just a label. With enough practice, every problem becomes solvable.*
 
-[🏠 Back to Main README](../README.md)
+[🏠 Back to Main README](../readme.md)
 
 </div>
