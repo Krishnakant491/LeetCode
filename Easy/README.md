@@ -5,7 +5,7 @@
 *Foundation problems — building blocks of DSA.*
 
 [![Difficulty](https://img.shields.io/badge/Difficulty-Easy-2CBB5D?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KrisCooked/)
-[![Back to Main](https://img.shields.io/badge/Back%20to-Main%20README-181717?style=for-the-badge&logo=github&logoColor=white)](../README.md)
+[![Back to Main](https://img.shields.io/badge/Back%20to-Main%20README-181717?style=for-the-badge&logo=github&logoColor=white)](../readme.md)
 
 </div>
 
@@ -13,7 +13,9 @@
 
 ## About This Folder
 
-This folder contains solutions to **Easy** difficulty problems from LeetCode, automatically synced via **LeetSync** whenever a solution is accepted.
+This folder is a reference collection for **Easy** difficulty problems.
+
+> **Note:** LeetHub syncs solutions directly to the **root level** of this repository (one folder per problem). This folder serves as a quick-reference guide for Easy-level patterns and tips.
 
 Easy problems are essential for:
 
@@ -24,17 +26,21 @@ Easy problems are essential for:
 
 ---
 
-## Folder Structure
+## How LeetHub Stores Solutions
 
-Each problem lives in its own subfolder named after the problem:
+Each accepted solution is saved at root level in this format:
 
 ```
-Easy/
-├── Two Sum/
-│   └── Two Sum.java
-├── Valid Parentheses/
-│   └── Valid Parentheses.java
-└── ...
+{problem-number}-{problem-name}/
+├── {problem-number}-{problem-name}.java   ← your solution
+└── README.md                              ← problem statement
+```
+
+**Example:**
+```
+1-two-sum/
+├── 1-two-sum.java
+└── README.md
 ```
 
 ---
@@ -62,7 +68,7 @@ Easy/
 
 ---
 
-> Solutions in this folder are synced automatically from [leetcode.com/u/KrisCooked](https://leetcode.com/u/KrisCooked/) via LeetSync.
+> Solutions auto-synced from [leetcode.com/u/KrisCooked](https://leetcode.com/u/KrisCooked/) via LeetHub.
 
 <div align="center">
 
@@ -70,6 +76,6 @@ Easy/
 
 *Every expert was once a beginner.*
 
-[🏠 Back to Main README](../README.md)
+[🏠 Back to Main README](../readme.md)
 
 </div>
