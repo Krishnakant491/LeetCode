@@ -5,7 +5,7 @@
 *Where real problem-solving begins.*
 
 [![Difficulty](https://img.shields.io/badge/Difficulty-Medium-FFC01E?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KrisCooked/)
-[![Back to Main](https://img.shields.io/badge/Back%20to-Main%20README-181717?style=for-the-badge&logo=github&logoColor=white)](../README.md)
+[![Back to Main](https://img.shields.io/badge/Back%20to-Main%20README-181717?style=for-the-badge&logo=github&logoColor=white)](../readme.md)
 
 </div>
 
@@ -13,9 +13,11 @@
 
 ## About This Folder
 
-This folder contains solutions to **Medium** difficulty problems from LeetCode, automatically synced via **LeetSync** whenever a solution is accepted.
+This folder is a reference collection for **Medium** difficulty problems.
 
-Medium problems are where the real growth happens:
+> **Note:** LeetHub syncs solutions directly to the **root level** of this repository (one folder per problem). This folder serves as a quick-reference guide for Medium-level patterns and tips.
+
+Medium problems are where real growth happens:
 
 - Naive/brute-force solutions no longer pass — optimization is required
 - Multiple patterns often combine in a single problem
@@ -24,19 +26,21 @@ Medium problems are where the real growth happens:
 
 ---
 
-## Folder Structure
+## How LeetHub Stores Solutions
 
-Each problem lives in its own subfolder named after the problem:
+Each accepted solution is saved at root level in this format:
 
 ```
-Medium/
-├── Longest Substring Without Repeating Characters/
-│   └── Longest Substring Without Repeating Characters.java
-├── 3Sum/
-│   └── 3Sum.java
-├── Product of Array Except Self/
-│   └── Product of Array Except Self.java
-└── ...
+{problem-number}-{problem-name}/
+├── {problem-number}-{problem-name}.java   ← your solution
+└── README.md                              ← problem statement
+```
+
+**Example:**
+```
+3-longest-substring-without-repeating-characters/
+├── 3-longest-substring-without-repeating-characters.java
+└── README.md
 ```
 
 ---
@@ -71,7 +75,7 @@ Medium/
 
 ---
 
-> Solutions in this folder are synced automatically from [leetcode.com/u/KrisCooked](https://leetcode.com/u/KrisCooked/) via LeetSync.
+> Solutions auto-synced from [leetcode.com/u/KrisCooked](https://leetcode.com/u/KrisCooked/) via LeetHub.
 
 <div align="center">
 
@@ -79,6 +83,6 @@ Medium/
 
 *The gap between Easy and Hard is built here, one Medium at a time.*
 
-[🏠 Back to Main README](../README.md)
+[🏠 Back to Main README](../readme.md)
 
 </div>
