@@ -169,3 +169,14 @@ Commit via LeetHub, review, and move forward
 Made by **Krishnakant Gupta** · [@Krishnakant491](https://github.com/Krishnakant491)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Krishnakant491/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Krishnakant491/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+<!---LeetCode Topics End-->
