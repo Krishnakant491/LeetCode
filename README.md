@@ -183,4 +183,16 @@ Made by **Krishnakant Gupta** · [@Krishnakant491](https://github.com/Krishnakan
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Krishnakant491/LeetCode/tree/master/0263-ugly-number) |
+## String
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishnakant491/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishnakant491/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Krishnakant491/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
