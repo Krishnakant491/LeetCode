@@ -179,4 +179,8 @@ Made by **Krishnakant Gupta** · [@Krishnakant491](https://github.com/Krishnakan
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishnakant491/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Krishnakant491/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
