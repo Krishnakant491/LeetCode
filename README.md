@@ -174,6 +174,7 @@ Made by **Krishnakant Gupta** · [@Krishnakant491](https://github.com/Krishnakan
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krishnakant491/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishnakant491/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
