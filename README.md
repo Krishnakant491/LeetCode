@@ -174,6 +174,7 @@ Made by **Krishnakant Gupta** · [@Krishnakant491](https://github.com/Krishnakan
 ## Array
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Krishnakant491/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Krishnakant491/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishnakant491/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -185,6 +186,7 @@ Made by **Krishnakant Gupta** · [@Krishnakant491](https://github.com/Krishnakan
 | ------- |
 | [0263-ugly-number](https://github.com/Krishnakant491/LeetCode/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/Krishnakant491/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/Krishnakant491/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Krishnakant491/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## String
 |  |
@@ -215,4 +217,20 @@ Made by **Krishnakant Gupta** · [@Krishnakant491](https://github.com/Krishnakan
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Krishnakant491/LeetCode/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Krishnakant491/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Krishnakant491/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Krishnakant491/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Krishnakant491/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
