@@ -1,0 +1,44 @@
+class Solution {
+    public int scoreOfParentheses(String s) {
+
+        Stack<Integer> st = new Stack<>();
+        int score = 0;
+
+        for(int i=0; i<s.length(); i++){
+            if(s.charAt(i) == '('){
+                st.push(score);
+                score = 0;
+            }
+            else{
+                if(s.charAt(i-1) == '('){
+                    score = st.peek() + 1;
+                }
+                else{
+                    score = st.peek() + 2 * score;
+                }
+                st.pop();
+            }
+        } 
+        return score;        
+    }
+}
+
+// class Solution {
+//     public int scoreOfParentheses(String s) {
+
+//         int score = 0, depth=0;
+
+//         for(int i=0; i<s.length(); i++){
+//             if(s.charAt(i) == '('){
+//                 depth++;
+//             }else{
+//                 depth--;
+//                 if(s.charAt(i-1) == '('){
+//                     score += (1<<depth); //Math.pow(2, depth);
+//                 }
+//             }
+//         }
+
+//         return score;        
+//     }
+// }
